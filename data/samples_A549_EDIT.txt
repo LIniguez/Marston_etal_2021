@@ -1,0 +1,20 @@
+SampleName	Protocol	Infection	Infection_Type	Batch	Time	What	MOI	Treatment	Platform	Title	Reads
+mock1_13	mRNA	MOCK	MOCK_IAV	4	9	A549	None	NA	NextSeq 500	Transcriptional response of human lung epithelial cells to SARS-CoV-2 infection	1369515
+mock2_14	mRNA	MOCK	MOCK_IAV	4	9	A549	None	NA	NextSeq 500	Transcriptional response of human lung epithelial cells to SARS-CoV-2 infection	2773749
+wt1_15	mRNA	IAV	IAV	4	9	A549	5	NA	NextSeq 500	Transcriptional response of human lung epithelial cells to SARS-CoV-2 infection	3382782
+wt2_16	mRNA	IAV	IAV	4	9	A549	5	NA	NextSeq 500	Transcriptional response of human lung epithelial cells to SARS-CoV-2 infection	1120763
+CoV_A549_mock3	mRNA	MOCK	MOCK_SARS_Cov2	3	24	A549	None	NA	NextSeq 500	Transcriptional response of human lung epithelial cells to SARS-CoV-2 infection	25081061
+CoV_A549_mock2	mRNA	MOCK	MOCK_SARS_Cov2	3	24	A549	None	NA	NextSeq 500	Transcriptional response of human lung epithelial cells to SARS-CoV-2 infection	23809078
+CoV_A549_mock1	mRNA	MOCK	MOCK_SARS_Cov2	3	24	A549	None	NA	NextSeq 500	Transcriptional response of human lung epithelial cells to SARS-CoV-2 infection	22166099
+CoV_A549_SARSCoV2_3	mRNA	SARS_CoV_2	SARS_Cov2	3	24	A549	2	NA	NextSeq 500	Transcriptional response of human lung epithelial cells to SARS-CoV-2 infection	22280277
+CoV_A549_SARSCoV2_2	mRNA	SARS_CoV_2	SARS_Cov2	3	24	A549	2	NA	NextSeq 500	Transcriptional response of human lung epithelial cells to SARS-CoV-2 infection	24949250
+CoV_A549_SARSCoV2_1	mRNA	SARS_CoV_2	SARS_Cov2	3	24	A549	2	NA	NextSeq 500	Transcriptional response of human lung epithelial cells to SARS-CoV-2 infection	44074243
+RSV_A549_mock3	mRNA	MOCK	MOCK_RSV	8	24	A549	None	NA	NextSeq 500	Transcriptional response of human lung epithelial cells to SARS-CoV-2 infection	5728818
+RSV_A549_mock2	mRNA	MOCK	MOCK_RSV	8	24	A549	None	NA	NextSeq 500	Transcriptional response of human lung epithelial cells to SARS-CoV-2 infection	6459060
+RSV_A549_mock1	mRNA	MOCK	MOCK_RSV	8	24	A549	None	NA	NextSeq 500	Transcriptional response of human lung epithelial cells to SARS-CoV-2 infection	11337279
+RSV_A549_RSV_MOI2_3	mRNA	RSV	RSV	8	24	A549	2	NA	NextSeq 500	Transcriptional response of human lung epithelial cells to SARS-CoV-2 infection	18265188
+RSV_A549_RSV_MOI2_2	mRNA	RSV	RSV	8	24	A549	2	NA	NextSeq 500	Transcriptional response of human lung epithelial cells to SARS-CoV-2 infection	10113566
+RSV_A549_RSV_MOI2_1	mRNA	RSV	RSV	8	24	A549	2	NA	NextSeq 500	Transcriptional response of human lung epithelial cells to SARS-CoV-2 infection	17024730
+A549_HPIV3_MOI2_1_indexD1	mRNA	HPIV3	HPIV3	8	24	A549	3	NA	NextSeq 500	Transcriptional response of human lung epithelial cells to SARS-CoV-2 infection	22489933
+A549_HPIV3_MOI2_2_indexD2	mRNA	HPIV3	HPIV3	8	24	A549	3	NA	NextSeq 500	Transcriptional response of human lung epithelial cells to SARS-CoV-2 infection	15057066
+A549_HPIV3_MOI2_3_indexD3	mRNA	HPIV3	HPIV3	8	24	A549	3	NA	NextSeq 500	Transcriptional response of human lung epithelial cells to SARS-CoV-2 infection	19109384
